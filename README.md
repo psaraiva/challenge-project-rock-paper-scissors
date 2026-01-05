@@ -1,4 +1,4 @@
-# Challenge Project: Create mini game with Copilot
+# Challenge Project: Create mini game with Copilot (Rock, Paper, Scissors)
 
 [challenge](https://learn.microsoft.com/pt-br/training/modules/challenge-project-create-mini-game-with-copilot/)
 
@@ -192,3 +192,4 @@ python -m unittest test_visualtext.TestVisualText.test_playerPaperComputerRock
 ```
 
 Thanks
+
